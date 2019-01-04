@@ -1,11 +1,10 @@
 \name{Overdrawn}
 \alias{Overdrawn}
 \docType{data}
-\title{Overdrawn}
+\title{Overdrawn Checking Account?}
 \description{
-Overdrawn
+Survey of college students to took at factors related to having overdrawn a checking account.
 }
-%\useage{data(Overdrawn)}
 \format{
   A dataset with 450 observations on the following 4 variables.
   \tabular{rl}{
@@ -21,7 +20,9 @@ introductory courses at either Mississippi State University or the University of
 were close to 150 questions on the survey, but only four of these variables are included in this
 dataset. (You can consult the paper to learn how the variables beyond these 4 affect
 the analysis.)  The primary interest for the researchers was factors relating to whether or not a student
-has ever overdrawn a checking account. 
+has ever overdrawn a checking account.
+
+Renamed as CreditRisk in second edition.
 }
 \source{
 Worthy S.L., Jonkman J.N., Blinn-Pike L. (2010), "Sensation-Seeking, Risk-Taking, and Problematic Financial Behaviors of College Students,"

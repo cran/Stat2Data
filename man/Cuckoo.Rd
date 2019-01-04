@@ -1,13 +1,12 @@
 \name{Cuckoo}
 \alias{Cuckoo}
 \docType{data}
-\title{Cuckoo}
+\title{Measurements of Cuckoo Eggs}
 \description{
 Lengths of cuckoo eggs laid in other birds' nests
 }
-%\usage{data(Cuckoo)}
 \format{
-  A dataset with 120 observations on the following 2 variables.
+  A data frame with 120 observations on the following 2 variables.
   \tabular{rl}{
     \code{Bird} \tab {Type of bird nest: \code{mdw_pipit} (meadow pipit), \code{tree_pipit},}\cr
     \tab {\code{hedge_sparrow}, \code{robin}, \code{wagtail}, or \code{wren}}\cr
@@ -15,9 +14,9 @@ Lengths of cuckoo eggs laid in other birds' nests
   }
 }
 \details{
-Cuckoos are knows to lay their eggs in the nests of other (host) birds. 
-The eggs are then adopted and hatched by the host birds.  
-The data give the lengths of cuckoo eggs found in nests of varous other bird species.
+Cuckoos are knows to lay their eggs in the nests of other (host) birds.
+The eggs are then adopted and hatched by the host birds.
+The data give the lengths of cuckoo eggs found in nests of various other bird species.
 }
 \source{
 Downloaded from DASL at http://lib.stat.cmu.edu/DASL/Datafiles/cuckoodat.html

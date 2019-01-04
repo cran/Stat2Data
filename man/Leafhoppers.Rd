@@ -1,13 +1,12 @@
-\name{LeafHoppers}
-\alias{LeafHoppers}
+\name{Leafhoppers}
+\alias{Leafhoppers}
 \docType{data}
-\title{LeafHoppers}
+\title{Leafhopper Diet and Longevity}
 \description{
-Lefetimes for potato leafhoppers on various sugar diets
+Lifetimes for potato leafhoppers on various sugar diets
 }
-%\useage{data(LeafHoppers)}
 \format{
-  A dataset with 8 observations on the following 2 variables.
+  A data frame with 8 observations on the following 2 variables.
   \tabular{rl}{
     \code{Diet} \tab {\code{Control}, \code{Fructose}, \code{Glucose}, or \code{Sucrose}}\cr
     \code{Days} \tab {Number of days until half the leafhoppers in a dish died}\cr

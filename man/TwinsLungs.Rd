@@ -1,11 +1,10 @@
 \name{TwinsLungs}
 \alias{TwinsLungs}
 \docType{data}
-\title{TwinsLungs}
+\title{Comparing Twins Ability to Clear Radioactive Particles}
 \description{
-Comparing lung function for twins between rural and urban environments 
+Experiment comparing twins (one urban, one rural) ability to clear airborne radioactive particles from their lungs
 }
-%\usage{data(TwinsLungs)}
 \format{
   A dataset with 14 observations on the following 3 variables.
   \tabular{rl}{
@@ -17,10 +16,12 @@ Comparing lung function for twins between rural and urban environments
 \details{
 This dataset is from a study to compare the effect of living environment (rural or urban) on human lung function,
 where the researchers were able to locate seven pairs of twins with one twin in each pair living
-in the country, the other in a city. To measure lung function, twins inhaled  an aerosol of radioactive Teflon particles.   By 
-measuring the  level of radioactivity immediately  and  then  again  after  an hour,  the  scientists  could 
-measure the  rate  of ``tracheobronchial clearance."   The  percentage  of radioactivity remaining  
-in the  lungs after  an hour  told  how quickly subjects'  lungs cleared the  inhaled  particles.   
+in the country, the other in a city. To measure lung function, twins inhaled  an aerosol of radioactive Teflon particles.   By
+measuring the  level of radioactivity immediately  and  then  again  after  an hour,  the  scientists  could
+measure the  rate  of ``tracheobronchial clearance."   The  percentage  of radioactivity remaining
+in the  lungs after  an hour  told  how quickly subjects'  lungs cleared the  inhaled  particles.
+
+This dataset was renamed as RadioactiveTwins for the second edition.
 
 }
 \source{
