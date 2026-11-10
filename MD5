@@ -1,6 +1,6 @@
-9c9f71223fb71ac6af30b8e6e59b795e *DESCRIPTION
+d82f490a43ba1e3ec5c96b87e69e3ca7 *DESCRIPTION
 5b76dd7b44401ce6727137eca7d15a66 *NAMESPACE
-dd77cf033f400e87426655cf3066bcb5 *NEWS.md
+61587967d6eaf3774ff721185185a3d1 *NEWS.md
 32ca9a9038d1f33fddb12f36e88e7a3f *R/TukeyNonaddPlot.R
 9b3c26277a9e061ff939dfe06378abcf *R/cooksplot.R
 c10ce4bea13dc801817aff0bb0683119 *R/emplogitplot1.r
@@ -227,7 +227,7 @@ ab3a5466c181c8f8fd9c547e9ae1fcee *man/AlitoConfirmation.Rd
 151dfe3025aa386075ab272b9c10bf4f *man/ArcheryData.Rd
 6e44224870baa3db9f7b98cf53e7fca2 *man/AthleteGrad.Rd
 7e6bb28d0c4c638e479fb7c06844c3b2 *man/AudioVisual.Rd
-3c387f7a5f4560fd4a87f68843d1ffe5 *man/AutoPollution.Rd
+551a4de6f1c8d37eee78aed2a6e31254 *man/AutoPollution.Rd
 3f7b76b1d0bd1a777cbd45220699f9f1 *man/Backpack.Rd
 49c74c2aca8f105278a99d918c422a5c *man/BaseballTimes.Rd
 ac988c89cfa4be1512294bb41798ce3c *man/BaseballTimes2017.Rd
@@ -407,11 +407,11 @@ aac83873e78ebbadb895393cb7b6345f *man/TechStocks.Rd
 32bb8d4df904067ddabe2df1449c7cb8 *man/TextPrices.Rd
 8e63a6df6dde6f6494c5e18c7e4b9e90 *man/ThomasConfirmation.Rd
 59439cc1c0b520e7ebed5ad6bea44269 *man/ThreeCars.Rd
-d54692903b927ba6caa50f6cdb4f226f *man/ThreeCars2017.Rd
+40bf10fdf0f646e1e4cf2e30e301f75d *man/ThreeCars2017.Rd
 ce5ea2c97b8dfb86bea144f79177d7f5 *man/TipJoke.Rd
 e097a3bac60ae1b7a966ae33910960ce *man/Titanic.Rd
 7eb160b19732aa2a1f729004d85fd446 *man/TomlinsonRush.Rd
-7425118a826c54fa9b200a349dc6072d *man/TukeyNonaddPlot.Rd
+54d89238954c2d0b4b6ac454ae7d9522 *man/TukeyNonaddPlot.Rd
 287d81d54c84b63efec6cbd18733be4e *man/TwinsLungs.Rd
 ad1c21ab634915eb06a57c4540f710d2 *man/USstamps.Rd
 d2b6858b63cdf0650c1fa5ce047ca42b *man/Undoing.Rd
@@ -431,6 +431,6 @@ b03f70556f85d48d411ef1ee868f1a1c *man/YouthRisk2007.Rd
 47eb4879eb20c12ba76e28b4c1aad670 *man/YouthRisk2009.Rd
 67e81f95c54f4ddfc28f6023002ad497 *man/Zimmerman.Rd
 02dfdc484d2fde79ed133958e3778139 *man/cooksplot.Rd
-b9a8e0bc159779aa4b6f7ec46fdf8925 *man/emplogitplot1.Rd
-dc77e013a89ec56a6fe4c0eaab4a45ec *man/emplogitplot2.Rd
+81d99e3eb53ebdc7d16381993a5a9c25 *man/emplogitplot1.Rd
+7dfd4977cf067b88bab8fa59d71c5a67 *man/emplogitplot2.Rd
 aabdc798a8872139f67700f36c7fc91c *man/sluacf.Rd
